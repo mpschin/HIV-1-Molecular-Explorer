@@ -1,5 +1,5 @@
 """
-NCBI HIV-1 Explorer & Aligner
+HIV-1 Molecular Explorer
 An interactive bioinformatics app for molecular epidemiology and phylogenetics.
 """
 
@@ -14,7 +14,7 @@ import re
 
 # ─── Page Config ─────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="NCBI HIV-1 Explorer & Aligner",
+    page_title="HIV-1 Molecular Explorer",
     page_icon="🧬",
     layout="wide",
     initial_sidebar_state="expanded",
